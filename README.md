@@ -1,2 +1,2 @@
 # studygo
-Golang code and web examples for beginners
+Golang codes and web examples for beginners
